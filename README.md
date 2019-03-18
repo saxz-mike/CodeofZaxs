@@ -1,11 +1,11 @@
 # Comparing the speed of two blocks of code  (Big O Notation)
 Big O notation code 1 and Big O notation code 2
 
-see the Image I uploaded below.
+see the Image I uploaded above.
 ====> 
       code Talk.
       
-     although the two blocks of code essentially are used to achieve the same purpose:
+     although the two blocks of code essentially are used to achieve the same thing:
             ==>one turns out to be faster than the other.
             To demonstrate this I have used console.log to capture performance.now();
             on a simple example. 
