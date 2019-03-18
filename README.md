@@ -21,6 +21,8 @@ see the Image I uploaded below.
             
             code two would thus be faster than code one!
             
+          NB:  different machine takes different time(s) to run the blocks of code ; my machine achieved the times on the pics :)
+            
             
   O(1), O(n), O(n^{2}), O(log n), O(n log n) among others are sample notations we can use to classify our code!!
   
