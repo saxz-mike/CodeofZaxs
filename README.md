@@ -11,7 +11,7 @@ see the Image I uploaded below.
             on a simple example. 
             
             
-            This approach is more of a time cpmplexity using the Big O notation 
+            This approach is more of a time complexity than space complexity using the Big O notation 
             
             code one falls under o(n) while code two falls under O(1)
             what does this mean?
